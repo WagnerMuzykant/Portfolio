@@ -13,5 +13,5 @@ Sou profissional formado em Análise e Desenvolvimento de Sistemas, com 7 anos d
 - 🎓 Google Cybersecurity Professional Certificate (Em andamento)
 
 ## 🌐 Conecte-se Comigo
-[LinkedIn](https://www.linkedin.com/in/wagner-muzykant-499000175/) | [E-mail](wagnereduardo34@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/wagner-muzykant-499000175/)  | [E-mail](wagnereduardo34@gmail.com) wagnereduardo34@gmail.com | Cel - (51)9 9634-4904.
 
