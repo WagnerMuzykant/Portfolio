@@ -6,9 +6,7 @@ Sou profissional formado em Análise e Desenvolvimento de Sistemas, com 7 anos d
 
 
 ## 🔥 Projetos em Destaque
-- [Análise de Logs no Splunk](link): Investigação de ataques de força bruta.EX
-- [Análise de Protocolos de Rede](link): Identificação de tráfego suspeito com Wireshark. EX 
-  
+- [cite_start]**[Auditoria de Segurança e Gestão de Riscos - Botium Toys](https://github.com/WagnerMuzykant/Botium-Toys-Security-Audit):** Realização de auditoria interna baseada no framework NIST CSF[cite: 363, 181].
 
   ## 🛠️ Habilidades Técnicas
 
