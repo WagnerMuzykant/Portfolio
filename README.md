@@ -6,7 +6,7 @@ Sou profissional formado em Análise e Desenvolvimento de Sistemas, com 7 anos d
 
 
 ## 🔥 Projetos em Destaque
-- [cite_start]**[Auditoria de Segurança e Gestão de Riscos - Botium Toys](https://github.com/WagnerMuzykant/Botium-Toys-Security-Audit):** Realização de auditoria interna baseada no framework NIST CSF[cite: 363, 181].
+**[Auditoria de Segurança e Gestão de Riscos - Botium Toys](https://github.com/WagnerMuzykant/Botium-Toys-Security-Audit):** Realização de auditoria interna baseada no framework NIST CSF
 
   ## 🛠️ Habilidades Técnicas
 
