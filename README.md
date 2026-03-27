@@ -7,6 +7,7 @@ Sou profissional formado em Análise e Desenvolvimento de Sistemas, com 7 anos d
 
 ## 🔥 Projetos em Destaque
 **[Auditoria de Segurança e Gestão de Riscos - Botium Toys](https://github.com/WagnerMuzykant/Botium-Toys-Security-Audit):** Realização de auditoria interna baseada no framework NIST CSF
+**[Análise de Incidentes de Rede: Investigação de DNS e SYN Flood](https://github.com/WagnerMuzykant/cybersecurity-incident-response):** Investigação técnica de interrupção de serviço e mitigação de ataques de negação de serviço (DoS) utilizando Wireshark e tcpdump.
 
   ## 🛠️ Habilidades Técnicas
 
