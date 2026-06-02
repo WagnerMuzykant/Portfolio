@@ -5,6 +5,8 @@ Sou profissional formado em Análise e Desenvolvimento de Sistemas, com 7 anos d
 
 ## 🔥 Projetos em Destaque
 
+**[Investigação de Logs e Auditoria de Sistemas com SQL](https://github.com/WagnerMuzykant/nome-do-repositorio-sql):** Aplicação prática de consultas SQL para triagem de eventos de segurança, utilizando operadores lógicos e filtros de padrão para investigar tentativas de login anômalas e auditar o inventário de equipamentos em bancos de dados corporativos.
+
 **[Auditoria de Segurança e Gestão de Riscos - Botium Toys](https://github.com/WagnerMuzykant/Botium-Toys-Security-Audit):** Realização de auditoria interna baseada no framework NIST CSF.
 
 **[Análise de Incidentes de Rede: Investigação de DNS e SYN Flood](https://github.com/WagnerMuzykant/cybersecurity-incident-response):** Investigação técnica de interrupção de serviço e mitigação de ataques de negação de serviço (DoS) utilizando Wireshark e tcpdump.
